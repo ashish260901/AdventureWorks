@@ -1,2 +1,7 @@
-# AdventureWorks
-AdventureWorks Sales Analytics Project: Performed sales analysis using Excel, SQL (PostgreSQL), Power BI, and Tableau. Cleaned and modeled data, calculated sales, profit, and production cost, and analyzed trends by year, month, quarter, product, customer, and region. Built interactive dashboards to present clear business insights.
+## 📂 Dataset
+
+Due to GitHub file size limits, the complete AdventureWorks Excel dataset
+is provided via GitHub Releases.
+
+👉 Dataset Location: Releases → v1.0
+👉 [Download Dataset from Releases]()
